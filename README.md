@@ -29,7 +29,7 @@ restart yasb
 
 ### Flow Launcher - Spotlight Search 
 
-Install [Flow Launcher](https://www.flowlauncher.com/) and then install the [onsetGlaze](https://github.com/abhidahal/onsetGlaze.flow) theme for it.
+Install [Flow Launcher v.1.19.5](https://github.com/Flow-Launcher/Flow.Launcher/releases/tag/v1.19.5) and then install the [onsetGlaze](https://github.com/abhidahal/onsetGlaze.flow) theme for it.
 
 ### Nilesoft Shell - Right click context Menus
 
